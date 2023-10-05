@@ -24,4 +24,4 @@ _Este repositório armazena a resolução do Desafio de Orientação á Objetos 
 
 <hr>
 
-- _Diagrama UML das Classes_ : ()
+- _Diagrama UML das Classes_ : [Link](https://github.com/Milena-Alcantara/Desafio-Iphone-BootcampJava/blob/master/.idea/DigramaUML/DiagramIphone.jpg)
